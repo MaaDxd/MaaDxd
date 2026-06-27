@@ -43,7 +43,9 @@ I'm a passionate developer with expertise in Full-Stack web development. I love 
 
 <div align="center">
 
-<!-- Projects go here -->
+https://github.com/MaaDxd/EventHub
+https://github.com/MaaDxd/Chat_Bot_MaaDyson
+https://github.com/MaaDxd/La-invacion-de-los-migajeros
 
 </div>
 
