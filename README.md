@@ -17,10 +17,10 @@
 
 I'm a passionate developer with expertise in **Full-Stack web development**. I love building clean, scalable applications and exploring new technologies. Always looking to learn and grow as a dev.
 
-- 🔭 Currently working on **EventHub** and **Chat_Bot_MaaDyson**
+- 🔭 Currently working on various projects to learn, several of which are uploaded here.
 - 🌱 Learning more about **AI**, **APIs** and scalable architectures
 - 💬 Ask me about **Python, JavaScript, Node.js or React**
-- ⚡ Fun fact: My avatar is my dog wearing headphones 🐶🎧
+- ⚡ I chose my avatar completely unexpectedly and I really like music. 🐶🎧
 
 ---
 
