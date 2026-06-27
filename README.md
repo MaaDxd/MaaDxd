@@ -15,7 +15,7 @@
 
 ## 🧑‍💻 About Me
 
-I'm a passionate developer with expertise in **Full-Stack web development**. I love building clean, scalable applications and exploring new technologies. Always looking to learn and grow as a dev.
+I'm a passionate developer with experience in backend web development. I love creating clean and scalable applications and exploring new technologies. I'm always looking to learn and grow as a developer.
 
 - 🔭 Currently working on various projects to learn, several of which are uploaded here.
 - 🌱 Learning more about **AI**, **APIs** and scalable architectures
