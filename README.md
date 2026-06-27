@@ -1,13 +1,4 @@
 <div align="center">
-
-<!-- LANGUAGE SWITCHER -->
-<p>
-  <a href="#english-version">🇺🇸 EN</a> &nbsp;|&nbsp; <a href="#spanish-version">🇪🇸 ES</a>
-</p>
-
----
-
-<!-- ───────────────────────── ENGLISH VERSION ───────────────────────── -->
 <a name="english-version"></a>
 
 # 👋 Hi, I'm Nicolas Madariaga
